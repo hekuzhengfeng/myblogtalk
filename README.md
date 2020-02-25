@@ -1,1 +1,1 @@
-# mytalk
+# myblogtalk
